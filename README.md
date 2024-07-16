@@ -1,7 +1,7 @@
 # PC
 
-Endeavouros
+[EndeavourOS](https://endeavouros.com/)
 
 # Mobile
 
-crDroid
+[crDroid](crdroid.net/)
