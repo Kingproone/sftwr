@@ -1,2 +1,7 @@
-# software
-Things that I use.
+# PC
+
+Endeavouros
+
+# Mobile
+
+crDroid
