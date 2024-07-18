@@ -1,6 +1,6 @@
 # PC
 
-[EndeavourOS](https://endeavouros.com/)
+[EndeavourOS](https://endeavouros.com/) - [Github](https://github.com/endeavouros-team)
 
 [Librewolf](https://librewolf.net/) <br />
 [Kate](https://apps.kde.org/kate/) <br />
