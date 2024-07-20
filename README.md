@@ -9,7 +9,7 @@
 
 # Mobile
 
-[crDroid](https://crdroid.net/) - Based on [LineageOS](https://lineageos.org/) with added customization options and bigger device support.<br />
+[crDroid](https://crdroid.net/) - Based on [LineageOS](https://lineageos.org/) with added customization options and bigger device support. <br />
 
 [F-Droid](https://f-droid.org/) - The app store for FOSS apps. <br />
 [Aurora](https://f-droid.org/en/packages/com.aurora.store/) [Store](https://aurorastore.org/) - The Google play frontend that respects you. <br />
@@ -22,4 +22,5 @@
 
 # Cool stuff I don't use
 
-[certbot](https://certbot.eff.org/) - free https
+[certbot](https://certbot.eff.org/) - Free https. <br />
+[zed](https://github.com/zed-industries/zed) - Code editor like vscode.
