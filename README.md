@@ -23,4 +23,4 @@
 # Cool stuff I don't use
 
 [certbot](https://certbot.eff.org/) - Free https. <br />
-[zed](https://github.com/zed-industries/zed) - Code editor like vscode.
+[Zed](https://github.com/zed-industries/zed) - Code editor like vscode.
