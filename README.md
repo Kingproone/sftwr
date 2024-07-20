@@ -9,7 +9,7 @@
 
 # Mobile
 
-[crDroid](https://crdroid.net/) - Based on [LineageOS](https://lineageos.org/) with added customization options and bigger device support. <br />
+[crDroid](https://crdroid.net/) - Based on [LineageOS](https://lineageos.org/) with added customization options and wider device support. <br />
 
 [F-Droid](https://f-droid.org/) - The app store for FOSS apps. <br />
 [Aurora](https://f-droid.org/en/packages/com.aurora.store/) [Store](https://aurorastore.org/) - The Google play frontend that respects you. <br />
