@@ -19,3 +19,7 @@
 # Online
 
 [Nitter](https://github.com/zedeus/nitter/wiki/Instances) - For the 2 things I check out on twitter a month.
+
+# Cool stuff I don't use
+
+[certbot](https://certbot.eff.org/)
