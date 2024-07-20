@@ -1,10 +1,10 @@
 # PC
 
-[EndeavourOS](https://endeavouros.com/) - [Github](https://github.com/endeavouros-team) - Arch + installer, what manjaro says it wants to be.
+[EndeavourOS](https://endeavouros.com/) - [Github](https://github.com/endeavouros-team) - Arch + calamares + a few handy tools, what manjaro says it wants to be, but good.
 
-[Librewolf](https://librewolf.net/) - Firefox but better. <br />
-[Kate](https://apps.kde.org/kate/) - For all the text editing. <br />
-[Vscodium](https://vscodium.com/) - [Github](https://github.com/VSCodium/vscodium) - For files that Kate can't handle. <br />
+[Librewolf](https://librewolf.net/) - Firefox, without mozilla. <br />
+[Kate](https://apps.kde.org/kate/) - Fast. For all the small text editing. <br />
+[Vscodium](https://vscodium.com/) - [Github](https://github.com/VSCodium/vscodium) - Vscode, without microsoft. For files that Kate can't handle. <br />
 [hex editor plugin](https://github.com/microsoft/vscode-hexeditor) <br />
 
 # Mobile
