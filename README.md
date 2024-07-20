@@ -22,4 +22,4 @@
 
 # Cool stuff I don't use
 
-[certbot](https://certbot.eff.org/)
+[certbot](https://certbot.eff.org/) - free https
