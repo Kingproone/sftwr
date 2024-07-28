@@ -6,6 +6,7 @@
 [Kate](https://apps.kde.org/kate/) - Fast. For all the small text editing. <br />
 [Vscodium](https://vscodium.com/) - [Github](https://github.com/VSCodium/vscodium) - Vscode, without microsoft. For files that Kate can't handle. <br />
 [hex editor plugin](https://github.com/microsoft/vscode-hexeditor) <br />
+[tldr](https://github.com/tldr-pages/tldr) - Short manpages. <br />
 
 # Mobile
 
@@ -25,4 +26,4 @@
 [certbot](https://certbot.eff.org/) - Free https. <br />
 [Zed](https://github.com/zed-industries/zed) - Code editor like vscode. <br />
 [penpot](https://penpot.app/) - Similar to figma. <br />
-[niri](https://github.com/YaLTeR/niri) - A scrollable DE.
+[niri](https://github.com/YaLTeR/niri) - A scrollable DE. <br />
