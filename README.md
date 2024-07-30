@@ -27,3 +27,4 @@
 [Zed](https://github.com/zed-industries/zed) - Code editor like vscode. <br />
 [penpot](https://penpot.app/) - Similar to figma. <br />
 [niri](https://github.com/YaLTeR/niri) - A scrollable DE. <br />
+[languagetool](https://github.com/languagetool-org/languagetool) - A spellchecker. <br />
