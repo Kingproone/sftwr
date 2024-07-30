@@ -28,3 +28,4 @@
 [penpot](https://penpot.app/) - Similar to figma. <br />
 [niri](https://github.com/YaLTeR/niri) - A scrollable DE. <br />
 [languagetool](https://github.com/languagetool-org/languagetool) - A spellchecker. <br />
+[UnigetUI](https://github.com/marticliment/UnigetUI) - A package manager for package managers.  <br />
