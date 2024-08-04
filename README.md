@@ -19,7 +19,8 @@
 
 # Online
 
-[Nitter](https://github.com/zedeus/nitter/wiki/Instances) - For the 2 things I check out on twitter a month.
+[Redlib](https://github.com/redlib-org/redlib) - A reddit frontend that doesn't suck. <br />
+[Nitter](https://github.com/zedeus/nitter/wiki/Instances) - For the 2 things I check out on twitter a month. <br />
 
 # Cool stuff I don't use
 
