@@ -30,3 +30,5 @@
 [niri](https://github.com/YaLTeR/niri) - A scrollable DE. <br />
 [languagetool](https://github.com/languagetool-org/languagetool) - A spellchecker. <br />
 [UnigetUI](https://github.com/marticliment/UnigetUI) - A package manager for package managers.  <br />
+[vscode-pets](https://github.com/tonybaloney/vscode-pets) <br />
+[CatWalk](https://store.kde.org/p/2137844/) <br />
