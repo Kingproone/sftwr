@@ -7,6 +7,7 @@
 [Vscodium](https://vscodium.com/) - [Github](https://github.com/VSCodium/vscodium) - Vscode, without microsoft. For files that Kate can't handle. <br />
 [hex editor plugin](https://github.com/microsoft/vscode-hexeditor) <br />
 [tldr](https://github.com/tldr-pages/tldr) - Short manpages. <br />
+[Grub Customizer](https://launchpad.net/grub-customizer) <br />
 
 # Mobile
 
